@@ -1,3 +1,5 @@
+# Hangman game
+
 import random, sys
 
 # Color change subroutine
